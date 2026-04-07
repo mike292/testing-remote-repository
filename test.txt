@@ -1,3 +1,8 @@
 test new branch
 
 test merging remote new to master
+test master branch
+
+this is from local
+
+This the new master branch
