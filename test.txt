@@ -1,14 +1,4 @@
-test
+test new branch
 
-testing again for changes
-
-change on master
-
-a large change lets this shit out
-
-another change
-
-I wanna see conflict
-
-test in new branch
+test from local new branch
 
