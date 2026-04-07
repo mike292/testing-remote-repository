@@ -6,4 +6,8 @@ change on master
 
 a large change lets this shit out
 
+<<<<<<< HEAD
 another change
+=======
+I wanna see conflict
+>>>>>>> new
