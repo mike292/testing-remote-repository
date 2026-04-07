@@ -1,5 +1,3 @@
 test new branch
 
-test from local new branch
-
-test from remote new branch
+test merging remote new to master
