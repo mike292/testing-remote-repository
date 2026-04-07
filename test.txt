@@ -8,8 +8,7 @@ a large change lets this shit out
 
 added stuff to push
 
-<<<<<<< HEAD
 added in local to push test conflict
-=======
+
 added to conflict
->>>>>>> 2b9c021c89c8007402939413d486da46e4358b70
+
